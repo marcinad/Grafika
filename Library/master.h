@@ -1,0 +1,9 @@
+#pragma once
+#include "colors.h"
+#include "glext.h"
+#include "gltools_extracted.h"
+#include "master.h"
+#include "targa.h"
+#include "targetver.h"
+#include "materials.h"
+#include "../packages/nupengl.core.0.1.0.1/build/native/include/GL/glut.h"
